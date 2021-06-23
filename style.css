@@ -1,0 +1,134 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Navbar */
+    .navbar {
+        position: absolute;
+        width: 1366px;
+        height: 60px;
+        left: 0px;
+        top: 0px;
+        background: #D96E30;
+    }
+    .projeto_1 {
+        position: absolute;
+        width: 200px;
+        height: 40px;
+        left: 24px;
+        top: -10px;
+        
+        font-family: Arial;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;
+    }   
+    .projeto_2 {
+        position: absolute;
+        width: 200px;
+        height: 40px;
+        left: 224px;
+        top: -10px;
+
+        font-family: Arial;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .projeto_3 {
+        position: absolute;
+        width: 200px;
+        height: 40px;
+        left: 430px;
+        top: -10px;
+
+        font-family: Arial;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+/* Bem Vindo Felipe - Texto User - Utilizar JS */
+    .user {
+        position: absolute;
+        width: 179px;
+        height: 40px;
+        right: 224px;
+        top: -10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+/* Icones - Navbar*/
+    .icon_notification {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 1278px;
+        top: 13px;
+    }
+    .icon_user {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 1227px;
+        top: 13px;
+    }
+
+/* ---------------------------- */
+/* Barra Lateral */
+
+.barra-lateral{
+    margin-top: px;
+    display: flex;
+    flex-direction: column;
+    width: 344px;
+    background: #E4E2E2;
+}
+.icon_barra_lateral{
+    /*margin-top: ; */ 
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+    top: 13px;
+}
+
+/* Texto - Barra Lateral */
+.texto_lat{
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    color: #6F6F6F;
+}
+
